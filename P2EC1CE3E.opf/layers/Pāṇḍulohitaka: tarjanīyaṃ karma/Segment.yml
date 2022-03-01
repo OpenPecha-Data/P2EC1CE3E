@@ -1,0 +1,104 @@
+id: 2d6dc214e8294e29bb92fb30c358e0f8
+annotation_type: Segment
+revision: '00001'
+annotations:
+  2d7b877cf7f54614bbe077d856f05632:
+    span:
+      start: 0
+      end: 60
+    metadata: {}
+  acc10a519e9844108af7d270123799b2:
+    span:
+      start: 63
+      end: 64
+    metadata: {}
+  049a40d5fe1c45f99e8f7852b5843796:
+    span:
+      start: 67
+      end: 68
+    metadata: {}
+  da7cce81f6fa495d8fea89ff3ea297c8:
+    span:
+      start: 71
+      end: 71
+    metadata: {}
+  2db5d70973304afe982bd79fd2e9e168:
+    span:
+      start: 74
+      end: 75
+    metadata: {}
+  bab6723bb2104d4c86cf98613139ffcc:
+    span:
+      start: 78
+      end: 80
+    metadata: {}
+  88c1c5e98f7b40dfbb91e7dffd097ea1:
+    span:
+      start: 83
+      end: 85
+    metadata: {}
+  e40f1d62ec1f4161ada684801b295965:
+    span:
+      start: 88
+      end: 88
+    metadata: {}
+  d8070f2c14a74b9988d0757289137571:
+    span:
+      start: 91
+      end: 91
+    metadata: {}
+  4293131151844c32b09b1c69405ce62b:
+    span:
+      start: 94
+      end: 94
+    metadata: {}
+  73ff0f48f22142b6aee08f36a0b4bb74:
+    span:
+      start: 97
+      end: 97
+    metadata: {}
+  3b38b177697e465bb74a1349471c04a6:
+    span:
+      start: 100
+      end: 100
+    metadata: {}
+  a3e1883e112b4727bbc47b6572aa37db:
+    span:
+      start: 103
+      end: 103
+    metadata: {}
+  9b6eb7e9baa0410c98f20768e8a79c97:
+    span:
+      start: 106
+      end: 106
+    metadata: {}
+  17befa3210744f29b0dee63f5d3445aa:
+    span:
+      start: 109
+      end: 109
+    metadata: {}
+  3e210c0fdfc74e56b814b349db2af937:
+    span:
+      start: 112
+      end: 112
+    metadata: {}
+  fe814a5b78ae4e35aff82153cae00b59:
+    span:
+      start: 115
+      end: 115
+    metadata: {}
+  b8def02263a744d2ac692c43d95d4a2b:
+    span:
+      start: 118
+      end: 122
+    metadata: {}
+  d17c17d1402d4f0c95184afa4e9517f2:
+    span:
+      start: 125
+      end: 128
+    metadata: {}
+  3db11db6408a4e5eba0ed158dfa524c3:
+    span:
+      start: 131
+      end: 135
+    metadata: {}

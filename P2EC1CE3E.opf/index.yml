@@ -1,0 +1,83 @@
+id: dc9c3f86ff5e4865b35a2f85df8ff6c9
+annotation_type: index
+revision: '00001'
+annotations:
+  6697f641a950430ebd99173751ead6d1:
+    work_id: W3BB44949
+    span:
+      vol: 'Ariṣṭa: apratiniḥsṛṣṭe pāpake dṛṣṭigata utkṣepaṇīyaṃ karma'
+      start: 0
+      end: 184
+  8514a5674e3e450694d5caf6f8a9ec9b:
+    work_id: W183B00EB
+    span:
+      vol: 'Aśvaka & Punarvasaka: pravāsanīyaṃ karma'
+      start: 0
+      end: 137
+  d37902e994d84c978b184b1e6903dec4:
+    work_id: W84C53AC6
+    span:
+      vol: 'Chanda: 1. āpatter adarśanāyotkṣepaṇīyaṃ karma, 2. āpatter apratikarmāyotkṣepaṇīyaṃ
+        karma'
+      start: 0
+      end: 255
+  6b83e40f8ea04d83b6067b70cf175590:
+    work_id: W276FB433
+    span:
+      vol: Pratikriyāvastūddāna
+      start: 0
+      end: 223
+  c1bcfab706d84db1a62ec8512bd67692:
+    work_id: WF4509978
+    span:
+      vol: 'Pāṇḍulohitaka: tarjanīyaṃ karma'
+      start: 0
+      end: 138
+  563f33b11b814d2c925f858fb653a800:
+    work_id: W4C4354C3
+    span:
+      vol: Pāṇḍulohitakavastūddāna
+      start: 0
+      end: 394
+  d20f621c78a64dbf9f7ccfca26a9ea1a:
+    work_id: W5E7B3783
+    span:
+      vol: 'Udayin: mānāpya'
+      start: 0
+      end: 63
+  c88752dd3d8c4b36a0ab53a918c17a90:
+    work_id: W7788F429
+    span:
+      vol: 'Udayin: mūlaparivāsa'
+      start: 0
+      end: 175
+  175e918c39da42e399f7d0e380f07f0b:
+    work_id: W435546C5
+    span:
+      vol: 'Udayin: mūlāpakaṛṣa'
+      start: 0
+      end: 213
+  b03abfe475e14fdf93b2272921e8a12f:
+    work_id: WF10F6EC0
+    span:
+      vol: 'Udayin: parivāsa'
+      start: 0
+      end: 175
+  bf0516364f3d41308cc73981a96c6553:
+    work_id: W9A852159
+    span:
+      vol: 'Udayin: āvarhaṇa'
+      start: 0
+      end: 174
+  17f0fd65318640789f296efd814af734:
+    work_id: WE00FCF81
+    span:
+      vol: 'Uttara: pratisaṃharanīyaṃ karma'
+      start: 0
+      end: 181
+  141432b43f634d9cb4e12a9cd7ab3e67:
+    work_id: WE622B63D
+    span:
+      vol: 'Śreyaka: nigarhanīyaṃ karma'
+      start: 0
+      end: 168
